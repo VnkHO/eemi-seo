@@ -398,12 +398,15 @@ a {
 
 
 @media only screen and (min-width: 64em) {
+  
 	html {
 		font-size: 62.5%;
   }
   
   .navigation__list {
     padding: 2rem 6rem;
+    width: 80%;
+    margin: 0 auto;
   }
 
   .navigation__list-link {
@@ -494,9 +497,6 @@ margin-bottom: 4rem;
 /* Desktop - 1200px to 1399px */
 
 @media only screen and (min-width: 75em) {
-
-
-
 
   .gallery__image-container {
     width: 48%;
