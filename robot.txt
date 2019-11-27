@@ -5,3 +5,4 @@ User-agent: Googlebot
 User-agent: *
 Allow: /
 
+Sitemap: https://agence-be-referencement.netlify.com/sitemap.xml
