@@ -1,8 +1,1 @@
-# Groupe 1
-User-agent: Googlebot
-
-# Groupe 2
-User-agent: *
-Allow: /
-
-Sitemap: https://agence-be-referencement.netlify.com/sitemap.xml
+sitemap : https://agence-be-referencement.netlify.com/sitemap.xml
